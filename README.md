@@ -1,2 +1,2 @@
 # orbit3d
-Analysis of the Ventracor hydrodynamic impeller
+Stability analysis of the Ventrassist hydrodynamically suspended impeller
